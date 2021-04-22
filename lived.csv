@@ -1,0 +1,7 @@
+airport1,airport2,start_lat,start_lon,end_lat,end_lon,time
+Northfield IL ,Emory University,42.09975,-87.7808967,33.7489954,-84.3879824,1
+Emory University,Florida State University,33.7489954,-84.3879824,30.4380556,-84.2808333,2
+Florida State University,NCCI,30.4380556,-84.2808333,26.3583333,-80.0833333,3
+NCCI,Tillinghast,26.3583333,-80.0833333,33.7489954,-84.3879824,4
+OMNI Insurance,The Hartford,33.7489954,-84.3879824,41.7636111,-72.6855556,5
+The Hartford,Catalina Marketing,41.7636111,-72.6855556,42.0333333,-88.0833333,6
